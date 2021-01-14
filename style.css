@@ -1,0 +1,13 @@
+.slogan{
+    color: goldenrod;
+}
+.color{
+    background-color: #FFFBF0;
+}
+.button{
+    background-color: rgba(160, 216, 95, 0.616);
+    border-radius: 5px solid;
+}
+footer{
+    text-align: center;
+}
